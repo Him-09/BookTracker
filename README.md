@@ -25,9 +25,8 @@ BookTracker is an intuitive web application designed to help book lovers organiz
    ```sh
    cd BookTracker
    ```
-3. **Open the project in a browser:**
-   - Simply double-click `index.html`, or
-   - Use a local server for better performance (e.g., `Live Server` extension in VS Code).
+3. ## 🖼️ Preview  
+[Live Demo](https://boookstracker.netlify.app/)  
 
 ## 🛠️ How It Works
 1. Enter a book title and author in the input fields.
